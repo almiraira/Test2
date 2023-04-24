@@ -24,6 +24,7 @@ int main()
     return 0;
 }
 
+///Создание рандомной матрицы
 void generateRandomMatrix(int**& matrix) {
     const int MIN_ELEMENT = -12;
     const int MAX_ELEMENT = 12;
