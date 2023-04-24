@@ -58,7 +58,7 @@ void numberOfSmallerElements(int**& matrix) {
                 countOfNumbers += 1;
             }
         }
-        cout << countOfNumbers << endl;
+        cout << countOfNumbers << endl; // здесь был вася
         countOfNumbers = 0;
     }
 }
