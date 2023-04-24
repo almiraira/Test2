@@ -75,7 +75,7 @@ void numberOfNonZeroRows(int**& matrix) {
         }
         numberOfZeroElements = 0;
     }
-    cout << "Number of non-zero rows: " << numberOfNonZeroRows << endl; //здесь был вася
+    cout << "Number of non-zero rows: " << numberOfNonZeroRows << endl;
 }
 
 void selectedElements(int**& matrix) {
