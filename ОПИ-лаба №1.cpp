@@ -87,5 +87,5 @@ void selectedElements(int**& matrix) {
             sum += matrix[i][j];
         }
     }
-    cout << "The sum of the selected elements = " << sum << endl;
+    cout << "The sum of the selected elements = " << sum << endl; //здесь был вася
 }
