@@ -36,6 +36,7 @@ void generateRandomMatrix(int**& matrix) {
     }
 }
 
+///Вывод матрицы
 void printMatrix(int**& matrix) {
     for (int i = 0; i < MATRIX_SIZE; i++) {
         for (int j = 0; j < MATRIX_SIZE; j++) {
