@@ -63,6 +63,7 @@ void numberOfSmallerElements(int**& matrix) {
     }
 }
 
+///Количество ненулевых строк
 void numberOfNonZeroRows(int**& matrix) {
     int numberOfNonZeroRows = 0, numberOfZeroElements = 0;
     for (int i = 0; i < MATRIX_SIZE; i++) {
